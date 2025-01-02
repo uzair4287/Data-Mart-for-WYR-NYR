@@ -47,7 +47,8 @@ Simplified queries for KPI generation.
 Improved performance for large-scale reporting.
 Result: Built a well-structured data mart supporting efficient analysis and scalability.
 
- KPI Analysis and Selection
+
+## KPI Analysis and Selection
 
 Initial KPI Exploration:
 Duration of Bed Allocation: Investigated but required additional data on patient assignments.
