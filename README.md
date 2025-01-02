@@ -47,8 +47,8 @@ Simplified queries for KPI generation.
 Improved performance for large-scale reporting.
 Result: Built a well-structured data mart supporting efficient analysis and scalability.
 
+ KPI Analysis and Selection
 
-## KPI Analysis and Selection
 Initial KPI Exploration:
 Duration of Bed Allocation: Investigated but required additional data on patient assignments.
 Duration of Bed Occupancy: Explored but data limitations prevented meaningful insights.
@@ -88,10 +88,4 @@ Demonstrated adaptability and critical thinking in data analysis.
 05 loading into fact
 
 <img width="270" alt="05 loading into fact" src="https://github.com/user-attachments/assets/7e27df3d-a1d3-4ef0-b0de-e0be1c021943">
-
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered
-3. 
 
